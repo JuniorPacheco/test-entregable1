@@ -6,7 +6,7 @@ const ContainerInfo = ({quote, handleNewQuote}) => {
 
   return (
     <section className="containerInfo">
-      <h1 className="containerInfo__title">Galletas de la fortuna</h1>
+      <h1 className="containerInfo__title">fortune cookies</h1>
 
       <Button handleNewQuote={handleNewQuote} />
 
